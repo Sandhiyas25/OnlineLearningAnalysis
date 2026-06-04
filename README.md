@@ -6,6 +6,14 @@ This project analyzes student learning behavior to understand engagement, course
 and academic performance across different learning environments. The dashboard provides interactive insights into student activity,
 performance metrics, and learning trends.
 
+## Dashboard
+<img width="1139" height="655" alt="Screenshot (417)" src="https://github.com/user-attachments/assets/27f42b42-eb2f-4e63-825c-ec2da30d6ad0" />
+<img width="980" height="563" alt="Screenshot (418)" src="https://github.com/user-attachments/assets/5383b683-ad0d-4b34-9cb4-dfa8f793283d" />
+<img width="980" height="566" alt="Screenshot (419)" src="https://github.com/user-attachments/assets/d6888ab3-ca62-4f39-9ed4-a8e8f41ff8e9" />
+
+
+
+
 ## Objective
 
 To analyze student engagement and learning behavior by identifying patterns in course completion, learning hours, quiz attempts, 
